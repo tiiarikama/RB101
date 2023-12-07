@@ -24,3 +24,5 @@ player = player.merge(character_classes[input])
 
 puts 'Your character stats:'
 puts player
+
+#testing
